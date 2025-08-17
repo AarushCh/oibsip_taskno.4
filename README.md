@@ -1,4 +1,4 @@
-# oibsip_taskno.4
+# Online Examination Interface
 # 𝐀𝐈𝐂𝐓𝐄 𝐎𝐈𝐁-𝐒𝐈𝐏 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 - 𝐏𝟏 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐔𝐁𝐌𝐈𝐒𝐒𝐈𝐎𝐍 𝐅𝐎𝐑𝐌 - Task 04
 
 The Online Examination Interface is a Java-based application designed to simulate an online exam experience. It offers a secure login system for users, allowing them to access their accounts and participate in exams. Once logged in, users can view and answer multiple-choice questions, with a built-in timer for each exam. The system auto-submits the exam after the time limit is reached. Additionally, users can update their profile and password securely. The system provides an intuitive, user-friendly interface while demonstrating key Java concepts such as object-oriented programming, data handling, and managing real-time user input.
